@@ -1,1 +1,1 @@
-sensor
+sensor not feasible for Linux based microcontrollers
